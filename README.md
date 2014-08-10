@@ -1,4 +1,5 @@
 500pxdownloader
 ===============
 
-A simple downloader for images on 500px
+A simple GUI downloader for images on 500px.
+
